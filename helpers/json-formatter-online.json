@@ -1,0 +1,12 @@
+{
+  "name": "JSON Formatter Online",
+  "desc": "format,vaildate JSON",
+  "url": "https://www.jsonformatting.com/",
+  "tags": [
+    "JSON"
+  ],
+  "maintainers": [
+    "json"
+  ],
+  "addedAt": "2021-01-27"
+}
